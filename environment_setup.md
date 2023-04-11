@@ -16,6 +16,10 @@ import torch
 print(torch.cuda.is_available())
 ```
 
-### Download ScanPy
-wait, do we even need this
-- Activate conda environment and run `conda install -c conda-forge scanpy python-igraph leidenalg`
+### Download Packages
+Activate conda environment and run
+- `conda install -c conda-forge scanpy python-igraph leidenalg`
+- `conda install -c conda-forge imbalanced-learn`
+- `conda install -c conda-forge xgboost`
+- `conda install -c conda-forge lightgbm`
+- `conda install -c conda-forge catboost`
