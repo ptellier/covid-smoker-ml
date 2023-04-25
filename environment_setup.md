@@ -23,3 +23,8 @@ Activate conda environment and run
 - `conda install -c conda-forge xgboost`
 - `conda install -c conda-forge lightgbm`
 - `conda install -c conda-forge catboost`
+
+
+altogether??
+`conda create -p \home\ptellier\scratch\phillip\my_jupyter\445proj python=3.9`
+`conda install -c conda-forge scanpy python-igraph leidenalg imbalanced-learn xgboost lightgbm catboost`
